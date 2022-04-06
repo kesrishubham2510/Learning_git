@@ -1,9 +1,12 @@
 public class Text {
-	String token;
+	private String token;
 
 	Text(String token){
 		this.token = token;
 	}
-
+    
+	public String getToken(){
+		return this.token;
+	}
 	
 }
