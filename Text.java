@@ -8,7 +8,9 @@ public class Text {
 		 this.token = token;
 		 System.out.println("s1");
 		 System.out.println("s2");
-		 System.out.println("s3");		 
+		 System.out.println("s3");	
+		 System.out.println("SSSSSS");
+		 
 	}
 
     public void printToken(){
@@ -18,7 +20,7 @@ public class Text {
     
 	public String getToken(){
 		return this.token;
-		
+
 	}
 	
 }
