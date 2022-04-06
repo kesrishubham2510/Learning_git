@@ -11,13 +11,10 @@ public class Text {
     public void printToken(){
 		System.out.println(this.token);
 	}
-<<<<<<< HEAD
 
-=======
     
 	public String getToken(){
 		return this.token;
 	}
 	
->>>>>>> ff15fa0fd2e09fd8883ddd56237ced43e20c224b
 }
