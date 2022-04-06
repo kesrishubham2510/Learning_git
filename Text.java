@@ -6,6 +6,9 @@ public class Text {
 	}
 	public void setToken(String token){
 		 this.token = token;
+		 System.out.println("s1");
+		 System.out.println("s2");
+		 System.out.println("s3");
 	}
 
     public void printToken(){
