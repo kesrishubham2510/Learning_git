@@ -8,4 +8,8 @@ public class Text {
 		 this.token = token;
 	}
 
+    public void printToken(){
+		System.out.println(this.token);
+	}
+
 }
